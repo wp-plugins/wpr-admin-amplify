@@ -22,7 +22,6 @@ There is documentation in regards to use and hooks in the plugin itself under th
 #### BETA
 This plugin is currently in beta.  I am releasing it for testing and feedback.  Eventually, I will begin supporting this plugin, making updates and improving the code and functionality.  After a while, I will add features and create a "Pro" version so that I am able to put real time into this (as long as it is useful enough that many people are using it and it begins to generate income).
 
-$metafieldtypes = array("radio"=>"Radio Button", "select"=>"Select Box", "multiselect"=>"Multi Select", "multicheck"=>"Multi Checkboxes", "sidebars"=>"Sidebar List", "text"=>"Text Field", "noneditable"=>"Non-editable textd", "check"=>"Check Box", "multilist"=>"Multilist", "advancedlist"=>"Advanced List", "textarea"=>"Text Area", "textwys"=>"WYSIWYG Textarea", "datepicker"=>"Date Picker", "timepicker"=>"Time Picker", "separator"=>"Section Separator", "file"=>"File Chooser", "calltoaction"=>"Javascript Call To Action");
 
 ---
  
