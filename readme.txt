@@ -50,6 +50,7 @@ This plugin is currently in beta.  I am releasing it for testing and feedback.  
  
 > #### Meta Fields
 > The currently available meta filds are:
+>
 > * Radio Button
 >
 > * Select Box
